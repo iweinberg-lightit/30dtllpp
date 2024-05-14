@@ -12,7 +12,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 
-<body class="bg-black text-white font-hanken-grotesk">
+<body class="bg-black text-white font-hanken-grotesk pb-20">
     <div class="px-10">
         <nav class="flex justify-between items-center bg-teal-500 py-4 border-b border-white/10">
             <div >
